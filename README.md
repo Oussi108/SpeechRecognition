@@ -1,18 +1,18 @@
-# SpeechRecognition
+# Voice Recognition Project
 
-This project is created by El houcine Oussi and Youness Kherbach, student engineers.
+This project, created by El houcine Oussi and Youness Kherbach, student engineers, demonstrates voice recognition for the commands "up", "down", "left", and "right".
 
 ## Description
 
-Briefly describe the project and its purpose. Keep it concise and to the point.
+The project utilizes speech recognition techniques to recognize spoken commands and perform corresponding actions based on the recognized commands. In this case, it recognizes the words "up", "down", "left", and "right" as directional commands.
 
 ## Installation
 
-Explain the steps required to install and set up the project. Keep it simple and provide clear instructions.
+Describe the steps required to install and set up the project. Include any dependencies, prerequisites, or environment configurations needed to run the project.
 
 ## Usage
 
-Provide instructions on how to use the project. Keep it simple and provide examples if necessary.
+Provide instructions on how to use the project. Explain the supported commands, how to speak them clearly, and any important details users should be aware of.
 
 ## Contributing
 
@@ -24,8 +24,8 @@ Specify the license under which the project is released.
 
 ## Contact
 
-- Elhoucine Oussi -
-- Youness Kherbach - 
+- El houcine Oussi - https://github.com/Oussi108
+- Youness Kherbach - https://github.com/saw20066
 
-Feel free to reach out to us if you have any questions or inquiries.
+Feel free to reach out to us if you have any questions, feedback, or inquiries.
 
