@@ -11,6 +11,7 @@ using System.Speech.Synthesis;
 namespace SpeechRecognition
 {
     class Program
+
     {
         public static void Main()
         {
@@ -35,7 +36,21 @@ namespace SpeechRecognition
 
             // Configure the recognizer
             recognizer.SetInputToDefaultAudioDevice();
-            recognizer.LoadGrammar(new DictationGrammar());
+
+            // Create a grammar with specific words and phrases
+            Choices choices = new Choices();
+            choices.Add("Left");
+            choices.Add("Right");
+            choices.Add("Up");
+            choices.Add("down");
+
+            GrammarBuilder grammarBuilder = new GrammarBuilder();
+            grammarBuilder.Append(choices);
+
+            Grammar grammar = new Grammar(grammarBuilder);
+
+            // Load the grammar into the recognizer
+            recognizer.LoadGrammar(grammar);
 
             // Start the recognition process
             recognizer.RecognizeAsync(RecognizeMode.Multiple);
