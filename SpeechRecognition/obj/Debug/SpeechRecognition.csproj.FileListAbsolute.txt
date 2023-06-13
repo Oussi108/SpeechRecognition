@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.exe.config
+C:\Users\acer\source\repos\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.exe
+C:\Users\acer\source\repos\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.pdb
+C:\Users\acer\source\repos\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.exe
+C:\Users\acer\source\repos\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.pdb
